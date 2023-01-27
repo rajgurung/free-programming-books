@@ -8,8 +8,9 @@
 * [Gulp](#gulp)
 * [Haskell](#haskell)
 * [Java](#java)
-  * [Spring](#spring)
+    * [Spring](#spring)
 * [JavaScript](#javascript)
+* [.NET](#net)
 * [Node.js](#nodejs)
 * [PHP](#php)
 * [QA](#qa)
@@ -29,6 +30,7 @@
 ### Новости и Разработка ПО
 
 * [Две Столицы - Уютный подкаст IT панков](http://www.2capitals.space) (Podcast)
+* [Запуск завтра](https://libolibo.ru/zapuskzavtra) (Podcast)
 * [Как делают игры](https://kdicast.com) (Podcast)
 * [Новый подкаст (2)_после правок.final.doc](https://newpodcast2.live) (Podcast)
 * [Радио-Т](https://radio-t.com) (Podcast)
@@ -73,6 +75,7 @@
 ### Java
 
 * [Плейлист видео по Java для новичков](https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
+* [javaswag](https://soundcloud.com/javaswag)
 
 
 #### Spring
@@ -90,6 +93,13 @@
 * [RadioJS](http://radiojs.ru) (Podcast)
 * [UnderJS podcast](https://underjs.ru) (Podcast)
 * [Webstandards](https://soundcloud.com/web-standards) (Podcast)
+
+
+### .NET
+
+* [DotNet & More](https://more.dotnet.ru) - Александр Кугушев и Артём Акуляков (Podcast)
+* [RadioDotNet](https://radio.dotnet.ru) - Анатолий Кулаков и Игорь Лабутин (Podcast)
+* [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Дмитрий Нестерук (Podcast)
 
 
 ### Node.js
@@ -129,5 +139,3 @@
 ### Webpack
 
 * [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)
-
-
